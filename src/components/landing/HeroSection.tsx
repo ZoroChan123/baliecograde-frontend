@@ -15,7 +15,7 @@ export function HeroSection() {
 
       <div className="mx-auto max-w-6xl px-4 pb-16 pt-14 sm:px-6 sm:pb-20 sm:pt-20">
         <p className="animate-fade-up inline-flex items-center gap-2 rounded-full border border-emerald-300/40 bg-emerald-900/50 px-3.5 py-1.5 text-sm font-semibold text-emerald-100">
-          Smart waste sorting untuk Bali
+          Smart waste sorting untuk Jawa
         </p>
         <h1 className="animate-fade-up mt-5 max-w-3xl text-4xl font-bold leading-[1.15] tracking-tight text-white [animation-delay:80ms] sm:text-5xl lg:text-6xl">
           Pilah sampah lebih cerdas, jaga keindahan Bali.
